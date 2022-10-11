@@ -1,0 +1,178 @@
+.header-container  {
+    font-family: monospace;
+    background: #1f2937;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+ul {
+    list-style-type: none;
+  }
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header {
+    background-color: #1f2937;
+}
+  
+a {
+    font-size: 18px;
+    color: #E5E7Eb;
+    padding: 8px;
+    text-decoration: none;
+  }
+  
+ul {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 8px;
+  }
+
+.text-about {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.text{
+    font-size: 18px;
+    color: #E5E7Eb;
+}
+
+.card {
+    margin: 20px;
+    width: 400px;
+    margin-left: 30px;
+    border-radius: 4px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.learn-more {
+    padding: 10px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    background-color:#3882F6;
+}
+
+.my-image {
+    border-radius: 200px;
+}
+
+.hero-container {
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+}
+
+/*
+Project
+*/
+
+.project-image {
+    border-radius: 20px;
+  width: 100%;
+}
+
+.projects {
+    border-radius: 4px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.project-container{
+  display: flex;
+  gap: 52px;
+  justify-content: center;
+}
+
+.images{
+    border-radius: 20px;
+    width: 100%;
+    border: 2px solid #3882F6;
+
+}
+
+.project-detail{
+  text-align: center;
+}
+.project-title {
+    border: #1f2937;
+    margin-top: 20px;
+    font-size: 36px;
+    font-weight: 900;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+/* Quote*/
+.quote-text{
+    font-size: 36px;
+    font: light;
+    font: italic;
+    color:#1f2937;
+}
+
+.quote{
+    font-size: 36px ;
+    background-color: #E5E7Eb;
+    padding: 60px;
+}
+
+/* Call to action */
+
+.style{
+    border-radius: 20px;
+    background-color: #3882F6;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+}
+
+.signtext {
+    color: #F9FAF8;
+}
+
+.newsletter {
+    font: 18px;
+    color: #E5E7Eb;
+}
+
+.button-div {
+    width: 100px;
+    border: 2px solid #F9FAF8;
+    padding: 10px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    background-color:#3882F6;
+}
+
+.signup-text {  
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ /*Footer*/
+
+ .footers {
+    margin-top: 50px;
+    color: #F9FAF8;
+    font-family: monospace;
+    background: #1f2937;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
